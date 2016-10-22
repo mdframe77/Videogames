@@ -1,2 +1,2 @@
 # Videogames
-video games
+video games are cool!
